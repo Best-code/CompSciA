@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompSciA/Challenge1/Challenge1.iml" filepath="$PROJECT_DIR$/CompSciA/Challenge1/Challenge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompSciA/EmailAddressProject/EmailAddressProject.iml" filepath="$PROJECT_DIR$/CompSciA/EmailAddressProject/EmailAddressProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompSciA/HellowWorld/HellowWorld.iml" filepath="$PROJECT_DIR$/CompSciA/HellowWorld/HellowWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompSciA/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/CompSciA/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompSciA/StringMethods/StringMethods.iml" filepath="$PROJECT_DIR$/CompSciA/StringMethods/StringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompSciA/VoidMethod/VoidMethod.iml" filepath="$PROJECT_DIR$/CompSciA/VoidMethod/VoidMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personal/personal.iml" filepath="$PROJECT_DIR$/personal/personal.iml" />
+    </modules>
+  </component>
+</project>
